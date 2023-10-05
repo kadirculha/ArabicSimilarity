@@ -1,0 +1,55 @@
+{
+  "sentences": [
+    {
+      "original_sentence": "Evde kitap okumak keyifli ve huzur verici",
+      "arabic_translation": "القراءة في المنزل ممتعة ومطمئنة",
+      "arabic_translation1": "القراءة في المنزل مسلية ومطمئنة"
+    },
+    {
+      "original_sentence": "Yemek pişirmek eğlenceli ve lezzetli",
+      "arabic_translation": "طهي الطعام ممتع ولذيذ",
+      "arabic_translation1": "طهي الطعام مسلي ولذيذ"
+    },
+    {
+      "original_sentence": "Müzik dinlemek ruhumu dinlendiriyor",
+      "arabic_translation": "الاستماع إلى الموسيقى يريح روحي",
+      "arabic_translation1": "الاستماع إلى الموسيقى يهدئ روحي"
+    },
+    {
+      "original_sentence": "Resim yapmak rahatlatıcı ve yaratıcı",
+      "arabic_translation": "الرسم مريح ومبدع",
+      "arabic_translation1": "الرسم مهدئ ومبدع"
+    },
+    {
+      "original_sentence": "Bahçede zaman geçirmek huzur verici",
+      "arabic_translation": "قضاء الوقت في الحديقة مطمئن",
+      "arabic_translation1": "قضاء الوقت في الحديقة ممتع"
+    },
+    {
+      "original_sentence": "Yoga yapmak enerji veriyor ve huzur getiriyor",
+      "arabic_translation": "ممارسة اليوغا تمنح الطاقة وتجلب الهدوء",
+      "arabic_translation1": "ممارسة اليوغا تزودك بالطاقة وتجلب السكينة"
+    },
+    {
+      "original_sentence": "Deniz kenarında dinlenmek huzur verici",
+      "arabic_translation": "الاسترخاء على شاطئ البحر مطمئن",
+      "arabic_translation1": "الاسترخاء على شاطئ البحر ممتع"
+    },
+    {
+      "original_sentence": "Farklı kültürleri keşfetmek ilgi çekici ve eğitici",
+      "arabic_translation": "اكتشاف ثقافات مختلفة مثير وتعليمي",
+      "arabic_translation1": "استكشاف ثقافات متنوعة مثير وتعليمي"
+    },
+    {
+      "original_sentence": "Dağlarda yürümek enerji veriyor ve huzur getiriyor",
+      "arabic_translation": "المشي في الجبال يمنح الطاقة ويجلب الهدوء",
+      "arabic_translation1": "المشي في الجبال يزودك بالطاقة ويجلب السكينة"
+    },
+    {
+      "original_sentence": "Farklı lezzetleri denemek eğlenceli ve lezzetli",
+      "arabic_translation": "تجربة نكهات مختلفة ممتعة ولذيذة",
+      "arabic_translation1": "تجربة نكهات مختلفة مسلية ولذيذة"
+    }
+  ]
+  
+}
