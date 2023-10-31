@@ -2,3 +2,5 @@ transformers
 scikit-learn
 pandas 
 torch
+arabert
+farasapy

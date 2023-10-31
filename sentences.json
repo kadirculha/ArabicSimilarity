@@ -1,55 +1,258 @@
 {
   "sentences": [
     {
-      "original_sentence": "Evde kitap okumak keyifli ve huzur verici",
       "arabic_translation": "القراءة في المنزل ممتعة ومطمئنة",
-      "arabic_translation1": "القراءة في المنزل مسلية ومطمئنة"
+      "arabic_translation1": "الاستمتاع بالكتب في المنزل ممتع ومطلوب",
+      "translation_meaning": "Evde okuma keyifli ve huzur vericidir.",
+      "translation_meaning1": "Evde kitapların tadını çıkarmak keyifli ve gereklidir."
     },
     {
-      "original_sentence": "Yemek pişirmek eğlenceli ve lezzetli",
       "arabic_translation": "طهي الطعام ممتع ولذيذ",
-      "arabic_translation1": "طهي الطعام مسلي ولذيذ"
+      "arabic_translation1": "طهي الطعام ممتع وذواق",
+      "translation_meaning": "Yemek pişirmek eğlenceli ve lezzetlidir.",
+      "translation_meaning1": "Yemek yapmak eğlenceli ve lezzetlidir."
     },
     {
-      "original_sentence": "Müzik dinlemek ruhumu dinlendiriyor",
       "arabic_translation": "الاستماع إلى الموسيقى يريح روحي",
-      "arabic_translation1": "الاستماع إلى الموسيقى يهدئ روحي"
+      "arabic_translation1": "الاستماع إلى الموسيقى يهدئ روحي",
+      "translation_meaning": "Müzik dinlemek ruhumu dinlendirir.",
+      "translation_meaning1": "Müzik dinlemek ruhumu sakinleştirir."
     },
     {
-      "original_sentence": "Resim yapmak rahatlatıcı ve yaratıcı",
+      "translation_meaning": "Resim yapmak huzur verici ve yaratıcıdır" ,
+      "translation_meaning1": "Resim yapmak eğlenceli ve yaratıcıdır",
       "arabic_translation": "الرسم مريح ومبدع",
-      "arabic_translation1": "الرسم مهدئ ومبدع"
+      "arabic_translation1": "الرسم مسلي ومبدع"
     },
     {
-      "original_sentence": "Bahçede zaman geçirmek huzur verici",
+      "translation_meaning": "Bahçede zaman geçirmek huzur verici",
+      "translation_meaning1": "Bahçede zamanı keyifli ve huzur dolu bir şekilde geçirmek",
       "arabic_translation": "قضاء الوقت في الحديقة مطمئن",
-      "arabic_translation1": "قضاء الوقت في الحديقة ممتع"
+      "arabic_translation1": "الاستمتاع بالوقت في الحديقة مطمئن وممتع"
     },
     {
-      "original_sentence": "Yoga yapmak enerji veriyor ve huzur getiriyor",
+      "translation_meaning":  "Yoga yapmak enerji verir ve huzur getirir" ,
+      "translation_meaning1": "Yoga yapmak canlılığı artırır ve huzur getirir",
       "arabic_translation": "ممارسة اليوغا تمنح الطاقة وتجلب الهدوء",
-      "arabic_translation1": "ممارسة اليوغا تزودك بالطاقة وتجلب السكينة"
+      "arabic_translation1": "ممارسة اليوغا تعزز الحيوية وتحضر الهدوء"
     },
     {
-      "original_sentence": "Deniz kenarında dinlenmek huzur verici",
+      "translation_meaning": "Deniz kenarında rahatlamak huzur verir",
+      "translation_meaning1": "Deniz kıyısında dinlenmek sakinlik verir",
       "arabic_translation": "الاسترخاء على شاطئ البحر مطمئن",
-      "arabic_translation1": "الاسترخاء على شاطئ البحر ممتع"
+      "arabic_translation1": "الاسترخاء على شاطئ البحر يمنح السكينة"
     },
     {
-      "original_sentence": "Farklı kültürleri keşfetmek ilgi çekici ve eğitici",
       "arabic_translation": "اكتشاف ثقافات مختلفة مثير وتعليمي",
-      "arabic_translation1": "استكشاف ثقافات متنوعة مثير وتعليمي"
+      "arabic_translation1": "استكشاف ثقافات متنوعة مليء بالإثارة والتعليم",
+      "translation_meaning": "Farklı kültürleri keşfetmek heyecan verici ve öğreticidir.",
+      "translation_meaning1": "Çeşitli kültürleri keşfetmek heyecan verici ve eğitici bir deneyimdir."
     },
     {
-      "original_sentence": "Dağlarda yürümek enerji veriyor ve huzur getiriyor",
       "arabic_translation": "المشي في الجبال يمنح الطاقة ويجلب الهدوء",
-      "arabic_translation1": "المشي في الجبال يزودك بالطاقة ويجلب السكينة"
+      "arabic_translation1": "المشي في الجبال يعزز الحيوية ويحضر الهدوء",
+      "translation_meaning": "Dağlarda yürüyüş yapmak enerji verir ve huzur getirir.",
+      "translation_meaning1": "Dağlarda yürüyüş yapmak canlılığı artırır ve huzur getirir."
     },
     {
-      "original_sentence": "Farklı lezzetleri denemek eğlenceli ve lezzetli",
       "arabic_translation": "تجربة نكهات مختلفة ممتعة ولذيذة",
-      "arabic_translation1": "تجربة نكهات مختلفة مسلية ولذيذة"
+      "arabic_translation1": "تجربة نكهات متنوعة مليء بالمرح والذواقة",
+      "translation_meaning": "Farklı tatları denemek eğlenceli ve lezzetlidir.",
+      "translation_meaning1": "Çeşitli tatları denemek eğlenceli ve lezzetlidir."
+    },
+    {
+      "translation_meaning": "Yürüyüş yapmak taze hava almanızı sağlar",
+      "translation_meaning1": "Yürüyüş yapmak taze hava almanızı sağlayan bir deneyimdir.",
+      "arabic_translation": "المشي يسمح لك بالحصول على هواء نقي",
+      "arabic_translation1": "المشي يمنحك فرصة للتنفس بالهواء النقي"
+    },
+    {
+      "translation_meaning": "Baharda çiçekler açar ve doğa uyanır",
+      "translation_meaning1": "Baharda çiçekler açar ve doğa uyanır, bu da manevi bir huzur kaynağıdır.",
+      "arabic_translation": "في الربيع تزهر الزهور وتستيقظ الطبيعة",
+      "arabic_translation1": "في فصل الربيع تفتح الزهور وتعود الطبيعة إلى الحياة"
+    },
+    {
+      "translation_meaning": "Güneşli günlerde plajda vakit geçirmek eğlencelidir",
+      "translation_meaning1": "Güneşli günlerde plajda vakit geçirmek keyiflidir.",
+      "arabic_translation": "قضاء الوقت على الشاطئ في أيام مشمسة ممتع",
+      "arabic_translation1": "الاستمتاع بأوقات الشاطئ في أيام مشمسة يعتبر مسليًا"
+    },
+    {
+      "translation_meaning": "Bisiklet sürmek serinletici ve sağlıklıdır",
+      "translation_meaning1": "Bisiklet sürmek serinletici ve sağlıklı bir aktivitedir.",
+      "arabic_translation": "ركوب الدراجة منعش وصحي",
+      "arabic_translation1": "ركوب الدراجة ممتع ومفيد للصحة"
+    },
+    {
+      "translation_meaning": "Gökyüzüne bakmak sakinleştirici bir etkiye sahiptir",
+      "translation_meaning1": "Gökyüzüne bakmak sakinleştirici bir etkiye sahiptir ve iç huzur sağlar.",
+      "arabic_translation": "النظر إلى السماء له تأثير مهدئ",
+      "arabic_translation1": "التحديق في السماء يؤثر بشكل مهدئ"
+    },
+    {
+      "arabic_translation": "المشي على الشاطئ يمنح الهدوء ويزيل الضغط",
+      "arabic_translation1": "التجول على الشاطئ يهدئ الأعصاب ويزيل التوتر",
+      "translation_meaning": "Sahilde yürümek sakinlik getirir ve stresi azaltır.",
+      "translation_meaning1": "Kıyıda gezinmek sinirleri yatıştırır ve gerginliği giderir."
+    },
+    {
+      "translation_meaning": "Sessiz bir yerde meditasyon yapmak rahatlatıcıdır",
+      "translation_meaning1": "Sessiz bir yerde meditasyon yapmak rahatlatıcıdır ve iç huzur sağlar.",
+      "arabic_translation": "التأمل في مكان هادئ مريح",
+      "arabic_translation1": "التأمل في مكان هادئ يساعد على الاسترخاء"
+    },
+    {
+      "translation_meaning": "Doğada kamp yapmak macera dolu ve eğlencelidir",
+      "translation_meaning1": "Doğada kamp yapmak macera dolu ve eğlenceli bir deneyimdir.",
+      "arabic_translation": "التخييم في الطبيعة مليء بالمغامرة ومسلي",
+      "arabic_translation1": "التخييم في الطبيعة يحمل الكثير من المغامرات والمرح"
+    },
+    {
+      "arabic_translation": "تمتع بيومك مع مشروب دافئ",
+      "arabic_translation1": "استمتع بيومك مع مشروب ساخن",
+      "translation_meaning": "Sıcak bir içecekle günün tadını çıkar.",
+      "translation_meaning1": "Sıcak bir içecekle günün keyfini çıkar."
+    },
+    {
+      "arabic_translation": "اغمض عينيك واسترخي بسلام",
+      "arabic_translation1": "أغلق عينيك واسترح بسكينة",
+      "translation_meaning": "Gözlerini kapat ve huzurla dinlen.",
+      "translation_meaning1": "Gözlerini kapat ve sakinleş."
+    },
+    {
+      "arabic_translation": "إطلالة جميلة توفر سكينة روحية",
+      "arabic_translation1": "إطلالة رائعة تمنح الهدوء الروحي",
+      "translation_meaning": "Güzel manzara iç huzur sağlar.",
+      "translation_meaning1": "Harika bir manzara iç huzur sunar."
+    },
+    {
+      "arabic_translation": "قضاء الوقت مع من تحب قيمة عظيمة",
+      "arabic_translation1": "الوقت الذي تقضيه مع من تحب يكون ثمينًا",
+      "translation_meaning": "Sevdiklerinle zaman geçirmek büyük bir değere sahiptir.",
+      "translation_meaning1": "Sevdiklerinle geçirdiğin zaman çok değerlidir."
+    },
+    {
+      "arabic_translation": "مشاهدة النجوم تجربة ساحرة",
+      "arabic_translation1": "رصد النجوم تجربة ساحرة",
+      "translation_meaning": "Yıldızları izlemek büyülü bir deneyimdir.",
+      "translation_meaning1": "Yıldızları gözlemlemek büyülü bir deneyimdir."
+    }
+    ,
+    {
+      "arabic_translation": "لقاء الأصدقاء القدامى يسعد القلب",
+      "arabic_translation1": "لقاء الأصدقاء القدامى يشعر بالسرور",
+      "translation_meaning": "Eski dostlarla buluşmak sevinç vericidir",
+      "translation_meaning1": "Eski dostlarla buluşmak sevinç vericidir."
+    },
+    {
+      "arabic_translation": "تناول وجبة خفيفة يمنح الطاقة",
+      "arabic_translation1": "تناول وجبة خفيفة يزود بالحيوية",
+      "translation_meaning": "Hafif bir öğün yemek enerji verir.",
+      "translation_meaning1": "Hafif bir öğün yemek canlılık sağlar."
+    }
+    ,
+    {
+      "arabic_translation": "شرب شوربات دافئة في الشتاء رائع",
+      "arabic_translation1": "شرب الحساء الساخن في الشتاء رائع",
+      "translation_meaning": "Kışın sıcak çorbalar içmek harika.",
+      "translation_meaning1": "Kışın sıcak çorba içmek harika."
+    },
+    {
+      "arabic_translation": "مشاهدة الأفلام مع العائلة ممتع",
+      "arabic_translation1": "مشاهدة الأفلام مع الأسرة يُسعد",
+      "translation_meaning": "Aileyle film izlemek keyiflidir.",
+      "translation_meaning1": "Aileyle film izlemek mutluluk verir."
+    },
+    {
+      "arabic_translation": "الاحتفال بعيد الميلاد يسعد",
+      "arabic_translation1": "الاحتفال بعيد الميلاد يعزز السعادة",
+      "translation_meaning": "Noel kutlamak mutluluk getirir.",
+      "translation_meaning1": "Noel kutlamak mutluluğu artırır."
+    },
+    {
+      "arabic_translation": "الحيوانات الأليفة تجلب الحب والفرح",
+      "arabic_translation1": "الحيوانات الأليفة تجلب الحب والسرور",
+      "translation_meaning": "Evcil hayvanlar sevgi ve neşe getirir",
+      "translation_meaning1": "Evcil hayvanlar sevgi ve neşe getirir."
+    },
+    {
+      "arabic_translation": "المشي في الطبيعة ينعش الروح",
+      "arabic_translation1": "التجول في الطبيعة يحيي الروح",
+      "translation_meaning": "Doğa yürüyüşleri ruhu canlandırır",
+      "translation_meaning1": "Doğa yürüyüşleri ruhu canlandırır."
+    },
+    {
+      "arabic_translation": "عزف الجيتار هو هواية ممتعة",
+      "arabic_translation1": "العزف على الجيتار هو هواية مسلية",
+      "translation_meaning": "Gitar çalmak eğlenceli bir hobidir.",
+      "translation_meaning1": "Gitar çalmak zevkli bir uğraşıdır."
+    },
+    {
+      "arabic_translation": "استكشاف الطبيعة على الدراجة تجربة رائعة",
+      "arabic_translation1": "استكشاف الطبيعة بركوب الدراجة تجربة رائعة",
+      "translation_meaning": "Doğayı bisikletle keşfetmek harika bir deneyim",
+      "translation_meaning1": "Doğayı bisikletle keşfetmek harika bir deneyim."
+    },
+    {
+      "arabic_translation": "تناول الآيس كريم منعش ولذيذ",
+      "arabic_translation1": "تناول الآيس كريم منعش ولذيذ",
+      "translation_meaning": "Dondurma yemek ferahlatıcı ve lezzetlidir",
+      "translation_meaning1": "Dondurma yemek ferahlatıcı ve lezzetlidir"
+    },
+    {
+      "arabic_translation": "في الأيام الممطرة، ابق في المنزل واقرأ كتابًا",
+      "arabic_translation1": "في الأيام الممطرة، قراءة كتاب في المنزل تمرّن ممتع",
+      "translation_meaning": "Yağmurlu günlerde evde kalın ve kitap okuyun.",
+      "translation_meaning1": "Yağmurlu günlerde evde kitap okumak eğlenceli bir egzersizdir."
+    },
+    {
+      "arabic_translation": "الاستلقاء على الشاطئ في يوم مشمس يمنح الهدوء",
+      "arabic_translation1": "الاستلقاء على الشاطئ في يوم مشمس يعزز السكينة",
+      "translation_meaning": "Güneşli bir günde sahilde uzanmak huzur verir",
+      "translation_meaning1": "Güneşli bir günde sahilde uzanmak huzuru teşvik eder."
+    },
+    {
+      "arabic_translation": "النظر إلى لوحة جميلة تجربة عاطفية",
+      "arabic_translation1": "التحديق في لوحة جميلة تجربة مؤثرة",
+      "translation_meaning": "Güzel bir tabloya bakmak duygusal bir deneyimdir.",
+      "translation_meaning1": "Güzel bir tabloya bakmak duygulandırıcı bir deneyimdir."
+    },
+    {
+      "arabic_translation": "تناول الحلوى يجلب السعادة",
+      "arabic_translation1": "تناول الحلوى يعزز البهجة",
+      "translation_meaning": "Tatlı yemek mutluluk getirir",
+      "translation_meaning1": "Tatlı yemek mutluluğu arttırır."
+    },
+    {
+      "arabic_translation": "التخييم في الطبيعة مليء بالمغامرة ومسلي",
+      "arabic_translation1": "التخييم في الطبيعة يحمل الكثير من المغامرات والمرح",
+      "translation_meaning": "Doğada kamp yapmak macera dolu ve eğlencelidir",
+      "translation_meaning1": "Doğada kamp yapmak macera dolu ve eğlenceli bir deneyimdir."
+    },
+    {
+      "arabic_translation": "الدردشة مع صديق يمكن أن تكون ممتعة",
+      "arabic_translation1": "الحديث مع صديق يجلب المتعة",
+      "translation_meaning": "Bir arkadaşınızla sohbet etmek eğlenceli olabilir",
+      "translation_meaning1": "Bir arkadaşla konuşmak eğlence getirir"
+    },
+    {
+      "arabic_translation": "مشاهدة الألعاب النارية تجربة ساحرة",
+      "arabic_translation1": "مشاهدة الألعاب النارية تجربة رائعة",
+      "translation_meaning": "Ateşli oyunları izlemek büyüleyici bir deneyimdir.",
+      "translation_meaning1": "Ateşli oyunları izlemek harika bir deneyimdir."
+    },
+    {
+      "arabic_translation": "قضاء يوم جميل في نزهة في الهواء الطلق يكون رائعًا",
+      "arabic_translation1": "قضاء يوم جميل في نزهة في الهواء الطلق يكون ممتعًا",
+      "translation_meaning": "Temiz havada güzel bir gün geçirmek harikadır.",
+      "translation_meaning1": "Temiz havada güzel bir gün geçirmek eğlencelidir."
+    },
+    {
+      "arabic_translation": "النظر إلى الصور القديمة يحيي الذكريات",
+      "arabic_translation1": "الاستمرار في الصور القديمة يجدد الذكريات",
+      "translation_meaning": "Eski fotoğraflara bakmak anıları canlandırır.",
+      "translation_meaning1": "Eski fotoğraflara devam etmek anıları yeniler."
     }
   ]
-  
 }
